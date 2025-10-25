@@ -1,5 +1,7 @@
 # ESP32 NAT Router with WPA2 Enterprise support
 
+Fork from [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router#building-the-binaries), no plan to merge back.
+
 This is a firmware to use the ESP32 as WiFi NAT router. It can be used as
 - Simple range extender for an existing WiFi network
 - Setting up an additional WiFi network with different SSID/password for guests or IOT devices
